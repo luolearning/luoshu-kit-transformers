@@ -4,12 +4,10 @@
 
 ## A mechanistic interpretability layer — every value now has a computed address instead of being searched.
 
-LuoshuKit implements a structured addressing layer for neural representations,
-introducing a coordinate system over internal values.
+LuoshuKit implements a structured addressing layer for neural representations, introducing a coordinate system over internal values that can be directly accessed without search.
 
 ---
 
-## Luoshu Addressing Framework
 
 ## Luoshu Addressing Framework
 
