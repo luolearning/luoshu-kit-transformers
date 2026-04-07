@@ -1,5 +1,14 @@
-# Luoshu Kit for Transformers (PoC)
+# Luoshu Kit V0.2 Transformers (PoC)
 
+**LuoshuKit is a plug-in. Inject it into any model.**
+
+**A mechanistic interpretability layer — every value now has a computed address instead of being searched.**
+
+
+---
+
+LuoshuKit implements a structured addressing layer for neural representations,
+where internal values are assigned addresses that can be directly decoded rather than located through search.
 ## Luoshu Addressing Framework
 
 This repository implements a Luoshu-based addressing system for neural representations,
