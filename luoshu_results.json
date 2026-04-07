@@ -1,0 +1,815 @@
+[
+  {
+    "prompt": "The capital of France is",
+    "path": [
+      4,
+      9,
+      2
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      0,
+      5
+    ],
+    "dims": [
+      4,
+      5,
+      6,
+      31,
+      32,
+      33
+    ],
+    "before": [
+      {
+        "token": " the",
+        "score": -100.24982452392578
+      },
+      {
+        "token": " now",
+        "score": -100.81751251220703
+      },
+      {
+        "token": " a",
+        "score": -100.85551452636719
+      },
+      {
+        "token": " France",
+        "score": -101.21022033691406
+      },
+      {
+        "token": " Paris",
+        "score": -101.21432495117188
+      }
+    ],
+    "after": [
+      {
+        "token": " the",
+        "score": -100.96051788330078
+      },
+      {
+        "token": " a",
+        "score": -101.28350067138672
+      },
+      {
+        "token": " also",
+        "score": -101.65153503417969
+      },
+      {
+        "token": " now",
+        "score": -101.95811462402344
+      },
+      {
+        "token": " Paris",
+        "score": -102.0551986694336
+      }
+    ]
+  },
+  {
+    "prompt": "The capital of France is",
+    "path": [
+      3,
+      5,
+      7
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      13,
+      5
+    ],
+    "dims": [
+      328,
+      329,
+      330,
+      355,
+      356,
+      357,
+      382,
+      383,
+      384
+    ],
+    "before": [
+      {
+        "token": " the",
+        "score": -100.24982452392578
+      },
+      {
+        "token": " now",
+        "score": -100.81751251220703
+      },
+      {
+        "token": " a",
+        "score": -100.85551452636719
+      },
+      {
+        "token": " France",
+        "score": -101.21022033691406
+      },
+      {
+        "token": " Paris",
+        "score": -101.21432495117188
+      }
+    ],
+    "after": [
+      {
+        "token": " the",
+        "score": -99.76504516601562
+      },
+      {
+        "token": " Paris",
+        "score": -99.92636108398438
+      },
+      {
+        "token": " a",
+        "score": -100.46990966796875
+      },
+      {
+        "token": " now",
+        "score": -100.64309692382812
+      },
+      {
+        "token": " also",
+        "score": -100.93667602539062
+      }
+    ]
+  },
+  {
+    "prompt": "The capital of France is",
+    "path": [
+      8,
+      1,
+      6
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      26,
+      5
+    ],
+    "dims": [
+      679,
+      680,
+      681,
+      706,
+      707,
+      708
+    ],
+    "before": [
+      {
+        "token": " the",
+        "score": -100.24982452392578
+      },
+      {
+        "token": " now",
+        "score": -100.81751251220703
+      },
+      {
+        "token": " a",
+        "score": -100.85551452636719
+      },
+      {
+        "token": " France",
+        "score": -101.21022033691406
+      },
+      {
+        "token": " Paris",
+        "score": -101.21432495117188
+      }
+    ],
+    "after": [
+      {
+        "token": " the",
+        "score": -99.21463775634766
+      },
+      {
+        "token": " a",
+        "score": -99.4990463256836
+      },
+      {
+        "token": " also",
+        "score": -100.44039916992188
+      },
+      {
+        "token": " not",
+        "score": -100.5189208984375
+      },
+      {
+        "token": " home",
+        "score": -100.66578674316406
+      }
+    ]
+  },
+  {
+    "prompt": "The capital of France is",
+    "path": [
+      1,
+      1,
+      1
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      26,
+      13
+    ],
+    "dims": [
+      687,
+      688,
+      689,
+      714,
+      715,
+      716
+    ],
+    "before": [
+      {
+        "token": " the",
+        "score": -100.24982452392578
+      },
+      {
+        "token": " now",
+        "score": -100.81751251220703
+      },
+      {
+        "token": " a",
+        "score": -100.85551452636719
+      },
+      {
+        "token": " France",
+        "score": -101.21022033691406
+      },
+      {
+        "token": " Paris",
+        "score": -101.21432495117188
+      }
+    ],
+    "after": [
+      {
+        "token": " the",
+        "score": -100.98833465576172
+      },
+      {
+        "token": " a",
+        "score": -101.56793975830078
+      },
+      {
+        "token": " now",
+        "score": -101.78959655761719
+      },
+      {
+        "token": " in",
+        "score": -101.86931610107422
+      },
+      {
+        "token": " France",
+        "score": -102.10501861572266
+      }
+    ]
+  },
+  {
+    "prompt": "The capital of France is Paris. The capital of Germany is",
+    "path": [
+      4,
+      9,
+      2
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      0,
+      5
+    ],
+    "dims": [
+      4,
+      5,
+      6,
+      31,
+      32,
+      33
+    ],
+    "before": [
+      {
+        "token": " Berlin",
+        "score": -97.1488265991211
+      },
+      {
+        "token": " Frankfurt",
+        "score": -97.76731872558594
+      },
+      {
+        "token": " Dresden",
+        "score": -98.05461120605469
+      },
+      {
+        "token": " Munich",
+        "score": -98.12605285644531
+      },
+      {
+        "token": " Hamburg",
+        "score": -98.6075210571289
+      }
+    ],
+    "after": [
+      {
+        "token": " Berlin",
+        "score": -96.82258605957031
+      },
+      {
+        "token": " Munich",
+        "score": -97.88050842285156
+      },
+      {
+        "token": " Dresden",
+        "score": -97.99273681640625
+      },
+      {
+        "token": " Frankfurt",
+        "score": -98.36083984375
+      },
+      {
+        "token": " Cologne",
+        "score": -98.52545928955078
+      }
+    ]
+  },
+  {
+    "prompt": "The capital of France is Paris. The capital of Germany is",
+    "path": [
+      3,
+      5,
+      7
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      13,
+      5
+    ],
+    "dims": [
+      328,
+      329,
+      330,
+      355,
+      356,
+      357,
+      382,
+      383,
+      384
+    ],
+    "before": [
+      {
+        "token": " Berlin",
+        "score": -97.1488265991211
+      },
+      {
+        "token": " Frankfurt",
+        "score": -97.76731872558594
+      },
+      {
+        "token": " Dresden",
+        "score": -98.05461120605469
+      },
+      {
+        "token": " Munich",
+        "score": -98.12605285644531
+      },
+      {
+        "token": " Hamburg",
+        "score": -98.6075210571289
+      }
+    ],
+    "after": [
+      {
+        "token": " Berlin",
+        "score": -95.74385833740234
+      },
+      {
+        "token": " Dresden",
+        "score": -96.25238037109375
+      },
+      {
+        "token": " Frankfurt",
+        "score": -96.7155532836914
+      },
+      {
+        "token": " Munich",
+        "score": -97.111328125
+      },
+      {
+        "token": " Hamburg",
+        "score": -97.38783264160156
+      }
+    ]
+  },
+  {
+    "prompt": "The capital of France is Paris. The capital of Germany is",
+    "path": [
+      8,
+      1,
+      6
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      26,
+      5
+    ],
+    "dims": [
+      679,
+      680,
+      681,
+      706,
+      707,
+      708
+    ],
+    "before": [
+      {
+        "token": " Berlin",
+        "score": -97.1488265991211
+      },
+      {
+        "token": " Frankfurt",
+        "score": -97.76731872558594
+      },
+      {
+        "token": " Dresden",
+        "score": -98.05461120605469
+      },
+      {
+        "token": " Munich",
+        "score": -98.12605285644531
+      },
+      {
+        "token": " Hamburg",
+        "score": -98.6075210571289
+      }
+    ],
+    "after": [
+      {
+        "token": " Frankfurt",
+        "score": -95.5223617553711
+      },
+      {
+        "token": " Berlin",
+        "score": -95.58863067626953
+      },
+      {
+        "token": " Dresden",
+        "score": -96.14205169677734
+      },
+      {
+        "token": " Munich",
+        "score": -96.24702453613281
+      },
+      {
+        "token": " Hamburg",
+        "score": -96.75306701660156
+      }
+    ]
+  },
+  {
+    "prompt": "The capital of France is Paris. The capital of Germany is",
+    "path": [
+      1,
+      1,
+      1
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      26,
+      13
+    ],
+    "dims": [
+      687,
+      688,
+      689,
+      714,
+      715,
+      716
+    ],
+    "before": [
+      {
+        "token": " Berlin",
+        "score": -97.1488265991211
+      },
+      {
+        "token": " Frankfurt",
+        "score": -97.76731872558594
+      },
+      {
+        "token": " Dresden",
+        "score": -98.05461120605469
+      },
+      {
+        "token": " Munich",
+        "score": -98.12605285644531
+      },
+      {
+        "token": " Hamburg",
+        "score": -98.6075210571289
+      }
+    ],
+    "after": [
+      {
+        "token": " Berlin",
+        "score": -96.73042297363281
+      },
+      {
+        "token": " Frankfurt",
+        "score": -97.26264953613281
+      },
+      {
+        "token": " Munich",
+        "score": -97.6033706665039
+      },
+      {
+        "token": " Dresden",
+        "score": -97.76145935058594
+      },
+      {
+        "token": " Hamburg",
+        "score": -97.81344604492188
+      }
+    ]
+  },
+  {
+    "prompt": "The opposite of hot is",
+    "path": [
+      4,
+      9,
+      2
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      0,
+      5
+    ],
+    "dims": [
+      4,
+      5,
+      6,
+      31,
+      32,
+      33
+    ],
+    "before": [
+      {
+        "token": " cold",
+        "score": -69.6380386352539
+      },
+      {
+        "token": " the",
+        "score": -70.3207015991211
+      },
+      {
+        "token": " a",
+        "score": -70.60455322265625
+      },
+      {
+        "token": " hot",
+        "score": -71.038818359375
+      },
+      {
+        "token": " not",
+        "score": -71.10426330566406
+      }
+    ],
+    "after": [
+      {
+        "token": " the",
+        "score": -80.44774627685547
+      },
+      {
+        "token": " a",
+        "score": -80.90687561035156
+      },
+      {
+        "token": " cold",
+        "score": -81.1075668334961
+      },
+      {
+        "token": " hot",
+        "score": -81.7580337524414
+      },
+      {
+        "token": " when",
+        "score": -81.8622817993164
+      }
+    ]
+  },
+  {
+    "prompt": "The opposite of hot is",
+    "path": [
+      3,
+      5,
+      7
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      13,
+      5
+    ],
+    "dims": [
+      328,
+      329,
+      330,
+      355,
+      356,
+      357,
+      382,
+      383,
+      384
+    ],
+    "before": [
+      {
+        "token": " cold",
+        "score": -69.6380386352539
+      },
+      {
+        "token": " the",
+        "score": -70.3207015991211
+      },
+      {
+        "token": " a",
+        "score": -70.60455322265625
+      },
+      {
+        "token": " hot",
+        "score": -71.038818359375
+      },
+      {
+        "token": " not",
+        "score": -71.10426330566406
+      }
+    ],
+    "after": [
+      {
+        "token": " cold",
+        "score": -70.60315704345703
+      },
+      {
+        "token": " the",
+        "score": -71.29540252685547
+      },
+      {
+        "token": " a",
+        "score": -71.46456909179688
+      },
+      {
+        "token": " hot",
+        "score": -72.20927429199219
+      },
+      {
+        "token": " not",
+        "score": -72.53387451171875
+      }
+    ]
+  },
+  {
+    "prompt": "The opposite of hot is",
+    "path": [
+      8,
+      1,
+      6
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      26,
+      5
+    ],
+    "dims": [
+      679,
+      680,
+      681,
+      706,
+      707,
+      708
+    ],
+    "before": [
+      {
+        "token": " cold",
+        "score": -69.6380386352539
+      },
+      {
+        "token": " the",
+        "score": -70.3207015991211
+      },
+      {
+        "token": " a",
+        "score": -70.60455322265625
+      },
+      {
+        "token": " hot",
+        "score": -71.038818359375
+      },
+      {
+        "token": " not",
+        "score": -71.10426330566406
+      }
+    ],
+    "after": [
+      {
+        "token": " cold",
+        "score": -71.22989654541016
+      },
+      {
+        "token": " the",
+        "score": -72.27643585205078
+      },
+      {
+        "token": " a",
+        "score": -72.50008392333984
+      },
+      {
+        "token": " hot",
+        "score": -73.0630874633789
+      },
+      {
+        "token": " not",
+        "score": -73.14453125
+      }
+    ]
+  },
+  {
+    "prompt": "The opposite of hot is",
+    "path": [
+      1,
+      1,
+      1
+    ],
+    "layer": 5,
+    "radius": 1,
+    "strength": -10.0,
+    "decoded_coord": [
+      26,
+      13
+    ],
+    "dims": [
+      687,
+      688,
+      689,
+      714,
+      715,
+      716
+    ],
+    "before": [
+      {
+        "token": " cold",
+        "score": -69.6380386352539
+      },
+      {
+        "token": " the",
+        "score": -70.3207015991211
+      },
+      {
+        "token": " a",
+        "score": -70.60455322265625
+      },
+      {
+        "token": " hot",
+        "score": -71.038818359375
+      },
+      {
+        "token": " not",
+        "score": -71.10426330566406
+      }
+    ],
+    "after": [
+      {
+        "token": " cold",
+        "score": -70.0658187866211
+      },
+      {
+        "token": " the",
+        "score": -70.4505615234375
+      },
+      {
+        "token": " a",
+        "score": -71.02803039550781
+      },
+      {
+        "token": " hot",
+        "score": -71.05310821533203
+      },
+      {
+        "token": " not",
+        "score": -71.6042251586914
+      }
+    ]
+  }
+]
