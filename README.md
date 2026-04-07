@@ -13,7 +13,7 @@ LuoshuKit implements a structured addressing layer for neural representations, i
 
 This repository represents the full Luoshu addressing system on Transformer architectures (GPT-2), using anchor–path encoding to resolve internal coordinates.
 
-It demonstrates direct addressing over Transformer representations.
+It illustrates direct addressing over Transformer representations.
 
 
 ---
