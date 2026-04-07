@@ -26,11 +26,6 @@ Instead of search-based circuit tracing (e.g. attribution patching), LuoshuKit t
 - Directly intervene on those coordinates  
 - Observe changes in output behavior  
 
-- Map the residual stream into a 27×27 Luoshu grid  
-- Use path-based addressing (e.g. (4,9,2)) to select coordinates  
-- Directly intervene on those coordinates  
-- Observe changes in output behavior  
-
 ---
 
 ## Example
