@@ -11,8 +11,7 @@ introducing a coordinate system over internal values.
 
 ## Luoshu Addressing Framework
 
-This repository instantiates the Luoshu addressing system,
-with anchor–path encoding for resolving internal coordinates.
+This repository is a Transformer-based implementation of LuoshuKit, instantiating the Luoshu addressing system with anchor–path encoding for resolving internal coordinates.
 
 It illustrates how the Luoshu structure can be applied to Transformer architectures (GPT-2).
 
