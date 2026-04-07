@@ -31,8 +31,6 @@ Instead of search-based circuit tracing (e.g. attribution patching), LuoshuKit t
 
 ## Example
 
-## Example
-
 We demonstrate:
 
 - Shifting token rankings (e.g. Berlin vs Frankfurt)  
@@ -52,6 +50,7 @@ This will run a simple intervention demo on GPT-2 and print changes in token ran
 
 Try modifying the token pairs (e.g. Berlin → Paris) to explore how addressing affects outputs.
 
+---
 
 ## Notes
 
