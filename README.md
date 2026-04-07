@@ -14,13 +14,18 @@ introducing a coordinate system over internal values.
 This repository instantiates the Luoshu addressing system,
 with anchor–path encoding for resolving internal coordinates.
 
-It demonstrates how the Luoshu structure can be applied to Transformer architectures (GPT-2).
+It illustrates how the Luoshu structure can be applied to Transformer architectures (GPT-2).
 
 ---
 
 ## Key Idea
 
-Instead of searching for circuits (e.g. attribution patching), we:
+Instead of search-based circuit tracing (e.g. attribution patching), LuoshuKit treats internal representations as an addressable space:
+
+- Map the residual stream into a 27×27 Luoshu grid  
+- Use path-based addressing (e.g. (4,9,2)) to select coordinates  
+- Directly intervene on those coordinates  
+- Observe changes in output behavior  
 
 - Map the residual stream into a 27×27 Luoshu grid  
 - Use path-based addressing (e.g. (4,9,2)) to select coordinates  
