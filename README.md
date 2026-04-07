@@ -5,18 +5,18 @@
 ## A mechanistic interpretability layer — every value now has a computed address instead of being searched.
 
 LuoshuKit implements a structured addressing layer for neural representations,
-where internal values are assigned addresses that can be directly decoded rather than located through search.
+introducing a coordinate system over internal values.
 
 ---
-
 
 ## Luoshu Addressing Framework
 
 This repository instantiates the Luoshu addressing system,
 with anchor–path encoding for resolving internal coordinates.
 
-This demonstrates how the Luoshu structure can be applied to Transformer architectures (GPT-2).
+It demonstrates how the Luoshu structure can be applied to Transformer architectures (GPT-2).
 
+---
 
 ## Key Idea
 
@@ -40,9 +40,10 @@ We demonstrate:
 
 ## Run
 
-pip install -r requirements.txt  
-python3 test_luoshu_gpt_full.py  
-
+```bash
+pip install -r requirements.txt
+python3 test_luoshu_gpt_full.py
+```
 ---
 
 ## Notes
