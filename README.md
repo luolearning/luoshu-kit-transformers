@@ -25,4 +25,4 @@ pip install -r requirements.txt
 python3 test_luoshu_gpt_full.py
 ```
 
-This project was developed by Jianmin Luo through a human–AI collaborative process. ChatGPT contributed to the clarification and programmatic formulation of the recursive Luoshu principle that underlies the system.
+This project was developed by Jianmin Luo through a human–AI collaborative process. ChatGPT contributed to the clarification and formalization of the recursive Luoshu principle, and to its translation into an executable addressing framework underlying the system.
