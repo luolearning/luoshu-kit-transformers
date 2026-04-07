@@ -1,5 +1,10 @@
 # Luoshu Kit for Transformers (PoC)
 
+## Luoshu Addressing Framework
+
+This repository implements a Luoshu-based addressing system for neural representations,
+including anchor–path encoding and direct decoding of internal locations.
+
 This is a minimal proof-of-concept showing that Luoshu-based direct addressing works on GPT-2.
 
 ## Key Idea
