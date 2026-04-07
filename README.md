@@ -12,11 +12,11 @@ where internal values are assigned addresses that can be directly decoded rather
 
 ## Luoshu Addressing Framework
 
-This repository implements a Luoshu-based addressing system for neural representations, including anchor–path encoding and direct decoding of internal locations.
+This repository instantiates the Luoshu addressing system,
+with anchor–path encoding for resolving internal coordinates.
 
-This is a minimal proof-of-concept showing that Luoshu-based direct addressing works on GPT-2.
+This demonstrates how the Luoshu structure can be applied to Transformer architectures (GPT-2).
 
----
 
 ## Key Idea
 
