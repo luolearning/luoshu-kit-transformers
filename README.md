@@ -47,7 +47,6 @@ python3 test_luoshu_gpt_full.py
 ```
 
 This will run a simple intervention demo on GPT-2 and print changes in token rankings and semantic strength.
-
 Try modifying the token pairs (e.g. Berlin → Paris) to explore how addressing affects outputs.
 
 ---
